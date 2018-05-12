@@ -1,0 +1,35 @@
+_repo: McIlvaine-s-Star_30199
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Martin, Bob
+    gutenberg_agent_id: '34441'
+    url: http://www.gutenberg.org/2009/agents/34441
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Derleth, August
+    alias: Derleth, August William
+    birthdate: 1909
+    deathdate: 1971
+    gutenberg_agent_id: '34440'
+    url: http://www.gutenberg.org/2009/agents/34440
+    wikipedia: http://en.wikipedia.org/wiki/August_Derleth
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: McIlvaine's Star
+url: http://www.gutenberg.org/ebooks/30199
